@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
 
-![Bienvenido a mi perfil]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9M5jK4GXmD5o1irGrF/giphy.gif))
+![Bienvenido a mi perfil](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9M5jK4GXmD5o1irGrF/giphy.gif)
 
 🎓 Técnico en Programación apasionado por el desarrollo de software, con experiencia en aplicaciones web, de escritorio y automatización. Me encanta aprender nuevas tecnologías y encontrar soluciones creativas a los desafíos técnicos.
 
