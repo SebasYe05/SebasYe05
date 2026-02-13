@@ -8,9 +8,11 @@ Soy Técnico en Programación y, la verdad, me apasiona todo este mundo del desa
 
 Le estoy metiendo duro al Tecnólogo en ADSO.
 
-Ando aprendiendo React para el frontend y Java con Spring Boot para el backend. Algo bacano
+Ando aprendiendo React para el frontend y Java con Spring Boot para el backend. 
 
-Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba
+Vengo de camellar con C#, así que entiendo bien cómo va la lógica y el tipado fuerte (amo C#).
+
+Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba. Cosas bacanas como siempre metiendole
 
 ## 💻 Tecnologías y herramientas que uso:
 - Lenguajes: **C#, PHP, JavaScript, HTML5, CSS3**
@@ -18,7 +20,7 @@ Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba
 - Bases de datos: **SQL Server, MySQL**
 - Otros: **OpenLayers, SweetAlert2, DataTables.js, Chart.js, Selenium**
 
-- Actualmente estoy buscando camello donde pueda aplicar lo que sé.
+Actualmente estoy buscando camello donde pueda aplicar lo que sé.
 
 Soy de los que piensa que el código debe ser creativo y funcional. Si en tu empresa o proyecto necesitan a alguien con la base técnica, la chispa de ADSO y muchas ganas de camellar, ¡aquí estoy! Pásate por mis proyectos y si te trama mi estilo, ¡hablemos un rato! 💬
 
