@@ -1,8 +1,16 @@
-# 👋 ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
+# ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
 
 ![Bienvenido a mi perfil](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif)
 
-🎓 Técnico en Programación apasionado por el desarrollo de software, con experiencia en aplicaciones web, de escritorio y automatización. Me encanta aprender nuevas tecnologías y encontrar soluciones creativas a los desafíos técnicos.
+Soy Técnico en Programación y, la verdad, me apasiona todo este mundo del desarrollo. No solo tiro código, me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una web, algo para el escritorio o automatizando tareas para hacernos la vida más fácil.
+
+¿En qué ando ahora?
+
+Le estoy metiendo duro al Tecnólogo en ADSO.
+
+Ando aprendiendo React para el frontend y Java con Spring Boot para el backend. Algo bacano
+
+Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba
 
 ## 💻 Tecnologías y herramientas que uso:
 - Lenguajes: **C#, PHP, JavaScript, HTML5, CSS3**
@@ -10,13 +18,14 @@
 - Bases de datos: **SQL Server, MySQL**
 - Otros: **OpenLayers, SweetAlert2, DataTables.js, Chart.js, Selenium**
 
-## 🤝 Busco colaborar en:
-Proyectos donde pueda aportar mis conocimientos en desarrollo web o automatización, y seguir creciendo como profesional.
+- Actualmente estoy buscando camello donde pueda aplicar lo que sé.
 
-## 📫 ¿Cómo contactarme?
-- 📧 Email: sebastianprovisional25@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebassye) 
+Soy de los que piensa que el código debe ser creativo y funcional. Si en tu empresa o proyecto necesitan a alguien con la base técnica, la chispa de ADSO y muchas ganas de camellar, ¡aquí estoy! Pásate por mis proyectos y si te trama mi estilo, ¡hablemos un rato! 💬
+
+## ¿Cómo contactarme?
+- Email: sebastianprovisional25@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sebassye) 
 
 ---
 
-*Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀*
+*Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones!*
