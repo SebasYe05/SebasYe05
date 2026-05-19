@@ -39,6 +39,16 @@ Plataforma para la gestión y visualización de fotografía urbana en Bogotá.
 Mi carta de presentación interactiva con un diseño único.
 * **Tecnologías:** React, Tailwind CSS, Framer Motion.
 
+### 🏍️ [Mega Moto - Sitio Web Corporativo](https://www.mega-moto.com/)
+Desarrollo del sitio web oficial para empresa del sector motocicletas.
+<p align="center">
+  <img src="assets/mega-moto-preview.png" alt="Vista previa de Mega Moto" width="500px" />
+</p>
+
+* **Repo:** Privado (cliente)
+* **Sitio en producción:** [mega-moto.com](https://www.mega-moto.com/)
+* **Tecnologías:** React, Vite, Leaflet, Framer Motion, React Helmet, Bootstrap, React Router DOM, React Icons.
+
 ---
 
 ## 💻 Tecnologías y herramientas:
