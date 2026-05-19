@@ -1,6 +1,8 @@
 # ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
 
-![Bienvenido a mi perfil](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif" alt="Bienvenido a mi perfil">
+</p>
 
 Soy Técnico en Programación y un verdadero SENA Lover, apasionado por todo este universo del desarrollo de software. No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
 
