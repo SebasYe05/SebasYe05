@@ -2,26 +2,25 @@
 
 ![Bienvenido a mi perfil](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif)
 
-Soy Técnico en Programación y, la verdad, me apasiona todo este mundo del desarrollo. No solo tiro código, me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una web, algo para el escritorio o automatizando tareas para hacernos la vida más fácil.
+Soy Técnico en Programación y un verdadero SENA Lover, apasionado por todo este universo del desarrollo de software. No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
 
-¿En qué ando ahora?
+* 🎓 Estudiante activo del **Tecnólogo ADSO**, combinando la formación académica con el aprendizaje autónomo.
+* 🛠️ Desarrollando proyectos *Full-Stack* aplicando el ecosistema de **React** y **Spring Boot**.
+* 🎯 Expandiendo mi stack tecnológico hacia el desarrollo móvil, profundizando en el lenguaje Dart y el framework **Flutter**.
+* 🧠 Con bases sólidas en **C#**, lo que me facilita adaptarme rápidamente a nuevos entornos orientados a objetos.
 
-Le estoy metiendo duro al Tecnólogo en ADSO.
-
-Ando aprendiendo React para el frontend y Java con Spring Boot para el backend. 
-
-Vengo de camellar con C#, así que entiendo bien cómo va la lógica y el tipado fuerte (amo C#).
-
-Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba. Cosas bacanas como siempre metiendole
+A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que picar líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en el diseño de diagramas, la arquitectura, la planeación de estrategias de calidad y la elaboración de planes de pruebas.
 
 
 ---
 
 ## 🔎 ¿Buscando un nuevo talento?
 
-Actualmente me encuentro en búsqueda de **nuevas oportunidades profesionales** donde pueda aportar mis conocimientos técnicos y mi capacidad de resolución creativa. Mi formación en el programa **ADSO** me ha permitido desarrollar una visión integral del software, priorizando siempre un código limpio, funcional y escalable.
+Actualmente me encuentro respaldado y patrocinado por **ASNET**, una oportunidad por la cual me siento profundamente agradecido, ya que me permite enfocarme de lleno en mi crecimiento y desarrollo profesional.
 
-Si tu equipo o empresa busca a alguien con bases sólidas en **C#, Java y React**, con una actitud proactiva y un aprendizaje constante, [**¡me encantaría que habláramos!**](#-hablemos) 💬
+Mi formación en el programa **ADSO** me ha brindado una visión integral del software. En este proceso he aprendido que el desarrollo no se limita únicamente a escribir código; abarca todo el ciclo de vida del software, incluyendo el modelado con diagramas, el control de calidad, la documentación y la ejecución de pruebas. Esto me permite priorizar siempre soluciones limpias, funcionales y verdaderamente escalables. **Gracias SENA!!**
+
+Si te interesa conocer más sobre mi trabajo o crees que podemos colaborar en alguna iniciativa, [**¡me encantaría que habláramos!**](#-hablemos) 💬
 
 ---
 
@@ -121,7 +120,6 @@ Desarrollo del sitio web oficial para empresa del sector motocicletas.
 
 ## ¿Cómo contactarme?
 ## 📩 Hablemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebassye)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianprovisional25@gmail.com)
 
 ---
