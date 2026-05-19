@@ -12,9 +12,7 @@ Soy **Técnico en Programación** y un verdadero **SENA Lover**, apasionado por 
   <img src="assets/code.jfif" alt="Desarrollo de código" width="300px" style="margin: 10px; border-radius: 10px;">
 </div>
 
-No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
-
-### 📌 Principales características
+No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone 
 
 * 🎓 Estudiante activo del **Tecnólogo ADSO**, combinando la formación académica con el aprendizaje autónomo.
 * 🛠️ Desarrollando proyectos *Full-Stack* aplicando el ecosistema de **React** y **Spring Boot**.
