@@ -1,18 +1,34 @@
-# ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
+# 👋 ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif" alt="Bienvenido a mi perfil">
 </p>
 
-Soy Técnico en Programación y un verdadero SENA Lover, apasionado por todo este universo del desarrollo de software. No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
+## 📋 Sobre mí
+
+Soy **Técnico en Programación** y un verdadero **SENA Lover**, apasionado por todo este universo del desarrollo de software.
+
+<div align="center">
+  <img src="assets/code.jfif" alt="Desarrollo de código" width="300px" style="margin: 10px; border-radius: 10px;">
+</div>
+
+No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
+
+### 📌 Principales características
 
 * 🎓 Estudiante activo del **Tecnólogo ADSO**, combinando la formación académica con el aprendizaje autónomo.
 * 🛠️ Desarrollando proyectos *Full-Stack* aplicando el ecosistema de **React** y **Spring Boot**.
 * 🎯 Expandiendo mi stack tecnológico hacia el desarrollo móvil, profundizando en el lenguaje Dart y el framework **Flutter**.
 * 🧠 Con bases sólidas en **C#**, lo que me facilita adaptarme rápidamente a nuevos entornos orientados a objetos.
 
-A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que picar líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en el diseño de diagramas, la arquitectura, la planeación de estrategias de calidad y la elaboración de planes de pruebas.
+### 🎯 Metodología
 
+A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que picar líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en:
+
+* 📐 **Diseño de diagramas** y arquitectura
+* 📋 **Planeación de estrategias** de calidad
+* ✅ **Elaboración de planes de pruebas** comprensivos
+* 🔍 **Control de calidad** riguroso
 
 ---
 
@@ -52,9 +68,18 @@ Desarrollo del sitio web oficial para empresa del sector motocicletas.
 
 ---
 
-## 💻 Tecnologías y herramientas:
+## 💻 Stack Tecnológico
+
+### 📱 Entorno de Desarrollo
+
+<div align="center">
+  <img src="assets/linux.jfif" alt="Linux - Entorno de Desarrollo" width="300px" style="margin: 10px; border-radius: 10px;">
+</div>
+
+Mi entorno de trabajo está optimizado en Linux, utilizando herramientas modernas para asegurar una máxima productividad y calidad en el código.
 
 ### 🛠️ Lenguajes y Backend
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
