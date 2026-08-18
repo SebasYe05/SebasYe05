@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
+# ¡Hola! Soy Sebastián Sotomayor (@SebasYe05)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk4ZDdzOXFlNDYxMndtMGl1Zjl2dm0xYzdqeTdqYXJreDR0NGhnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif" alt="Bienvenido a mi perfil">
@@ -6,22 +6,15 @@
 
 ## 📋 Sobre mí
 
-Soy **Técnico en Programación** y un verdadero **SENA Lover**, apasionado por todo este universo del desarrollo de software.
+Técnico en Programación de Software y apasionado SENA Lover ^^, actualmente me formo como Tecnólogo en Análisis y Desarrollo de Software (ADSO).
 
 <div align="center">
   <img src="assets/code.jfif" alt="Desarrollo de código" width="300px" style="margin: 10px; border-radius: 10px;">
 </div>
 
-No solo me dedico a "tirar código"; me encanta encontrarle la vuelta creativa a los problemas técnicos, ya sea armando una aplicación web, una solución de escritorio o automatizando tareas para hacernos la vida más fácil. Siempre estoy buscando qué más aprender y qué nuevo reto me pone 
-
-* 🎓 Estudiante activo del **Tecnólogo ADSO**, combinando la formación académica con el aprendizaje autónomo.
-* 🛠️ Desarrollando proyectos *Full-Stack* aplicando el ecosistema de **React** y **Spring Boot**.
-* 🎯 Expandiendo mi stack tecnológico hacia el desarrollo móvil, profundizando en el lenguaje Dart y el framework **Flutter**.
-* 🧠 Con bases sólidas en **C#**, lo que me facilita adaptarme rápidamente a nuevos entornos orientados a objetos.
-
 ### 🎯 Metodología
 
-A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que picar líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en:
+A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que escribir líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en:
 
 * 📐 **Diseño de diagramas** y arquitectura
 * 📋 **Planeación de estrategias** de calidad
@@ -134,6 +127,12 @@ Mi entorno de trabajo está optimizado en Linux, utilizando herramientas moderna
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C37?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-222222?style=for-the-badge&logo=caddy&logoColor=white)
+![DuckDNS](https://img.shields.io/badge/DuckDNS-FFC107?style=for-the-badge&logo=dns&logoColor=black)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Knip](https://img.shields.io/badge/Knip-131B2A?style=for-the-badge&logo=knip&logoColor=white)
 
 ### 🔧 Móvil y Otros
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DA?style=for-the-badge&logo=xamarin&logoColor=white)
