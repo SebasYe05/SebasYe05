@@ -133,6 +133,9 @@ Mi entorno de trabajo está optimizado en Linux, utilizando herramientas moderna
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-FFC107?style=for-the-badge&logo=dns&logoColor=black)
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Knip](https://img.shields.io/badge/Knip-131B2A?style=for-the-badge&logo=knip&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![React Doctor](https://img.shields.io/badge/React%20Doctor-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NSSM](https://img.shields.io/badge/NSSM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔧 Móvil y Otros
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DA?style=for-the-badge&logo=xamarin&logoColor=white)
