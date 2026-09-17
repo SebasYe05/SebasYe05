@@ -12,7 +12,8 @@ Técnico en Programación de Software y apasionado SENA Lover ^^, actualmente me
   <img src="assets/code.jfif" alt="Desarrollo de código" width="300px" style="margin: 10px; border-radius: 10px;">
 </div>
 
-### 🎯 Metodología
+<details>
+<summary><h3>🎯 Metodología</h3></summary>
 
 A través de mi formación, he comprendido que crear un gran producto conlleva mucho más que escribir líneas de código; implica dominar todo el ciclo de vida del software. Por eso, me enfoco con rigurosidad en:
 
@@ -20,6 +21,8 @@ A través de mi formación, he comprendido que crear un gran producto conlleva m
 * 📋 **Planeación de estrategias** de calidad
 * ✅ **Elaboración de planes de pruebas** comprensivos
 * 🔍 **Control de calidad** riguroso
+
+</details>
 
 ---
 
@@ -33,33 +36,61 @@ Si te interesa conocer más sobre mi trabajo o crees que podemos colaborar en al
 
 ---
 
-
-
 ## 🚀 Proyectos Destacados (ADSO & Personal)
 
 ### 📸 [PhotoBogotá - Fullstack](https://github.com/Photobogotanos/Frontend-Photobogota)
 Plataforma para la gestión y visualización de fotografía urbana en Bogotá.
-* **Backend:** Java Spring Boot, MongoDB, JWT, Maven, Arquitectura de capas. [Repo Backend](https://github.com/SebasYe05/backend-photobogota)
-* **Frontend:** React, Leaflet (Mapas), Recharts, Axios, Framer Motion. [Repo Frontend](https://github.com/Photobogotanos/Frontend-Photobogota)
-* **Infraestructura:** Docker.
 
-### 🎮 [Mi Portafolio Web](https://github.com/SebasYe05/mi-portafolio)
-Mi carta de presentación interactiva con un diseño único.
-* **Tecnologías:** React, Tailwind CSS, Framer Motion.
-
-### 🏍️ [Mega Moto - Sitio Web Corporativo](https://www.mega-moto.com/)
-Desarrollo del sitio web oficial para empresa del sector motocicletas.
 <p align="center">
-  <img src="assets/mega-moto-preview.png" alt="Vista previa de Mega Moto" width="500px" />
+  <img src="assets/photobogota.png" alt="PhotoBogotá" width="600px" style="border-radius: 8px;" />
 </p>
 
-* **Repo:** Privado (cliente)
-* **Sitio en producción:** [mega-moto.com](https://www.mega-moto.com/)
-* **Tecnologías:** React, Vite, Leaflet, Framer Motion, React Helmet, Bootstrap, React Router DOM, React Icons.
+- **Backend:** Java Spring Boot, MongoDB, JWT, Maven, Arquitectura de capas. [Repo Backend](https://github.com/SebasYe05/backend-photobogota)
+- **Frontend:** React, Leaflet (Mapas), Recharts, Axios, Framer Motion. [Repo Frontend](https://github.com/Photobogotanos/Frontend-Photobogota)
+- **Infraestructura:** Docker.
 
 ---
 
-## 💻 Stack Tecnológico
+### 🎮 [Mi Portafolio Web](https://github.com/SebasYe05/mi-portafolio)
+Mi carta de presentación interactiva con un diseño único.
+
+<p align="center">
+  <img src="assets/portafolio.png" alt="Mi Portafolio" width="600px" style="border-radius: 8px;" />
+</p>
+
+- **Tecnologías:** React, Tailwind CSS, Framer Motion.
+
+---
+
+### 🏍️ [Mega Moto - Sitio Web Corporativo](https://www.mega-moto.com/)
+Desarrollo del sitio web oficial para empresa del sector motocicletas.
+
+<p align="center">
+  <img src="assets/mega-moto-preview.png" alt="Mega Moto" width="600px" style="border-radius: 8px;" />
+</p>
+
+- **Repo:** Privado (cliente)
+- **Sitio en producción:** [mega-moto.com](https://www.mega-moto.com/)
+- **Tecnologías:** React, Vite, Leaflet, Framer Motion, React Helmet, Bootstrap, React Router DOM, React Icons.
+
+---
+
+### 📦 Katepramax
+Sistema de gestión de pedidos, inventario, entregas y contabilidad multi-sede.
+
+<p align="center">
+  <img src="assets/katepramax.png" alt="Katepramax" width="600px" style="border-radius: 8px;" />
+</p>
+
+- **Repo:** Privado
+- **Backend:** Fastify, Prisma, MySQL, JWT, Swagger
+- **Frontend:** React 19, Vite, Bootstrap 5, Recharts, React Router
+- **Infraestructura:** Docker, Docker Compose, pnpm monorepo
+
+---
+
+<details>
+<summary><h2>💻 Stack Tecnológico</h2></summary>
 
 ### 📱 Entorno de Desarrollo
 
@@ -142,8 +173,9 @@ Mi entorno de trabajo está optimizado en Linux, utilizando herramientas moderna
 ![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
 
----
+</details>
 
+---
 
 ## ¿Cómo contactarme?
 ## 📩 Hablemos:
